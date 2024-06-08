@@ -669,6 +669,10 @@ img {
   margin-bottom: 16px;
 }
 
+.field-check {
+  margin-bottom: 24px;
+}
+
 .modal-field-wrap {
   position: relative;
 }
@@ -739,8 +743,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
-  align-items: center;
 }
 
 .checkbox-text span {
